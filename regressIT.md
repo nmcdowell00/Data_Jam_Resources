@@ -7,7 +7,8 @@ This image shows [stockReturns.xlsx](https://github.com/nmcdowell00/Data_Jam_Res
 ![](images/columnms.png)
 
 # Create Names:
-You will need to create names within the data to properly run regressit. To do this click *Create Names* in the regressIT toolbar ![](images/createnames.png) This will bring up a window that asks you where in the data set the names are. I select *Top Row* as that is where my nanes are 
+You will need to create names within the data to properly run regressit. To do this click *Create Names* in the regressIT toolbar ![](images/createnames.png) This will bring up a window that asks you where in the data set the names are. I select *Top Row* as that is where my names are:
+
 ![](images/toprow.png)
 
 # Run the Regression
